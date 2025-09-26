@@ -20,6 +20,9 @@ Open your terminal and go to the project root:
 ```powershell
 cd "C:\Users\yourpathlocation\TypeScript Practice"
 ```
+tsc "Into .ts"; node "Into .js"
+
+---
 
 ### 2. Compile and Run a TypeScript File
 To run any `.ts` file, use the following steps:
