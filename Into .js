@@ -26,7 +26,7 @@ var a1 = undefined;
 var b1 = null;
 console.log("Q4:", a1, b1);
 // Q5. Number Array
-var number = [10, 20, 30, 40];
+var numbers = [10, 20, 30, 40];
 console.log("Q5:");
 numbers.forEach(function (num) { return console.log(num); });
 // Q6. String Array
@@ -116,8 +116,6 @@ var p1 = { id: 101, name: "Laptop", price: 50000 };
 printProduct(p1);
 // Install TypeScript globally
 // npm install -g typescript
-tsc;
-"src/Into Practice Sheets/relativeCoding.ts";
-// Run the compiled JavaScript file
-node;
-"src/Into Practice Sheets/relativeCoding.js";
+// tsc "src/Into Practice Sheets/relativeCoding.ts"
+// // Run the compiled JavaScript file
+// node "src/Into Practice Sheets/relativeCoding.js"
