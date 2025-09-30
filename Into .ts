@@ -188,10 +188,3 @@ function printProduct(p: Product) {
 let p1: Product = { id: 101, name: "Laptop", price: 50000 };
 printProduct(p1);
 
-// Install TypeScript globally
-// npm install -g typescript
-
-// tsc "src/Into Practice Sheets/relativeCoding.ts"
-
-// // Run the compiled JavaScript file
-// node "src/Into Practice Sheets/relativeCoding.js"
