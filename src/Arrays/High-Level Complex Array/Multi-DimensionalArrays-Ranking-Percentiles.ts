@@ -13,20 +13,20 @@ let results: Result[] = [
 ];
 
 // Compute average per student
-let performance = results.map(r => {
+let rankedStudentPerformance = results.map(r => {
   let avg = r.marks.reduce((sum, m) => sum + m, 0) / r.marks.length;
   return { ...r, avg };
 });
 
 // Sort by rank
-performance.sort((a, b) => b.avg - a.avg);
+rankedStudentPerformance.sort((a, b) => b.avg - a.avg);
 
 // Calculate percentile cutoff (top 20%)
-let cutoffIndex = Math.floor(performance.length * 0.2);
-let toppers = performance.slice(0, cutoffIndex + 1);
+let cutoffIndex = Math.floor(rankedStudentPerformance.length * 0.2);
+let toppers = rankedStudentPerformance.slice(0, cutoffIndex + 1);
 
 console.log("=== Student Ranking ===");
-console.table(performance);
+console.table(rankedStudentPerformance);
 
 console.log("\n=== Toppers (Top 20%) ===");
 console.table(toppers);
