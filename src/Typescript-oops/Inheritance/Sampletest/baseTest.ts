@@ -1,4 +1,4 @@
-// baseTest.ts
+// baseTest.ts----Base (Parent) class
 export class BaseTest {
   protected browser: string;
 
