@@ -15,4 +15,4 @@ for (const test of tests) {
   console.log("--------------------------------------\n");
 }
 
-console.log("ALL TESTS EXECUTED SUCCESSFULLY 🚦");
+console.log("ALL TESTS EXECUTED SUCCESSFULLY ");
