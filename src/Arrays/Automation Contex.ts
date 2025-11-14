@@ -17,6 +17,6 @@ let failed = testCases.filter(tc => tc.status === "Fail").length;
 let skipped = testCases.filter(tc => tc.status === "Skip").length;
 
 console.log("Test Summary:");
-console.log(`✅ Passed: ${passed}`);
-console.log(`❌ Failed: ${failed}`);
-console.log(`⏭️ Skipped: ${skipped}`);
+console.log(`Passed: ${passed}`);
+console.log(`Failed: ${failed}`);
+console.log(`Skipped: ${skipped}`);
