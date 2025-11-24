@@ -7,8 +7,8 @@ let giriProfileHL: [string, number, boolean] = ["Giri", 25, true];
 console.log("Q1:", giriProfileHL);
 
 // Q2: Use a union type variable to store multiple possible types for Giri
-let giriStatus: string | number | boolean = "Active";
-console.log("Q2:", giriStatus);
+let giriStatusHL: string | number | boolean = "Active";
+console.log("Q2:", giriStatusHL);
 
 // Q3: Create a readonly object for Giri’s account settings
 let giriSettings: Readonly<{ theme: string; notifications: boolean }> = {
@@ -19,8 +19,8 @@ console.log("Q3:", giriSettings);
 
 // Q4: Create an enum for Giri’s roles in a system
 enum Roles { Admin = "ADMIN", User = "USER", Tester = "TESTER" }
-let giriRole: Roles = Roles.Tester;
-console.log("Q4:", giriRole);
+let giriRoleHL: Roles = Roles.Tester;
+console.log("Q4:", giriRoleHL);
 
 // Q5: Create a nested object type describing Giri’s address
 let giriAddress: {
@@ -35,8 +35,8 @@ let giriAddress: {
 console.log("Q5:", giriAddress);
 
 // Q6: Create a generic type for Giri’s response structure
-type ApiResponse<T> = { data: T; success: boolean };
-let giriApi: ApiResponse<string> = { data: "User created", success: true };
+type GiriApiResponse<T> = { data: T; success: boolean };
+let giriApi: GiriApiResponse<string> = { data: "User created", success: true };
 console.log("Q6:", giriApi);
 
 // Q7: Store a function reference inside a variable
