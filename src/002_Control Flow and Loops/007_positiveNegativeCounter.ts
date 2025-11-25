@@ -1,3 +1,5 @@
+export {};
+
 const nums: number[] = [5, -3, 0, 8, -1, 0];
 let positive = 0, negative = 0, zero = 0;
 
