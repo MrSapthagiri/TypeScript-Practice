@@ -1,11 +1,11 @@
-type Employee = {
+type EmployeeRecord = {
   id: number;
   name: string;
   role: string;
   active: boolean;
 };
 
-let employees: Employee[] = [
+let employees: EmployeeRecord[] = [
   { id: 1, name: "Giri", role: "Tester", active: true },
   { id: 2, name: "ravi", role: "Developer", active: false },
   { id: 3, name: "Charan", role: "Manager", active: true }
@@ -23,3 +23,5 @@ let manager = employees.find(emp => emp.role === "Manager");
 console.log("Active Employees:", activeEmployees);
 console.log("Employee Names:", employeeNames);
 console.log("Manager:", manager);
+
+export {};
