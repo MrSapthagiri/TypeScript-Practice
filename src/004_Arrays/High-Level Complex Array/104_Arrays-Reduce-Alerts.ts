@@ -20,4 +20,4 @@ let lowStockItems = inventory.filter(i => i.stock < i.reorderLevel);
 
 console.log("=== Inventory Summary ===");
 console.log("Total Stock:", totalStock);
-console.log("\n⚠️ Low Stock Items:", lowStockItems);
+console.log("\nLow Stock Items:", lowStockItems);
