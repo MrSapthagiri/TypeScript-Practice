@@ -1,0 +1,1072 @@
+[
+  {
+    "title": "Sr. QA Engineer -(Jest,Playwright, Cypress) 5+Years, Remote",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/8313989.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/8313989.gif",
+    "jobId": "041225035594",
+    "currency": "INR",
+    "footerPlaceholderLabel": "3 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Novizco Infotech",
+    "isSaved": false,
+    "tagsAndSkills": "PCI DSS,Rest Api Testing,playwright,Graphql API Testing,Postman,Jwt,Allure,Appium",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-10 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "10-19 Lacs PA"
+      },
+      {
+        "type": "location",
+        "label": "Remote"
+      }
+    ],
+    "companyId": 5644408,
+    "jdURL": "/job-listings-sr-qa-engineer-jest-playwright-cypress-5-years-remote-novizco-infotech-bengaluru-5-to-10-years-041225035594",
+    "staticUrl": "novizco-infotech-jobs-careers-5644408",
+    "jobDescription": "Proficient with JavaScript / TypeScript test automation tools (Jest,Playwright,Cypress)<br><br>Youll collaborate closely with developers,product managers,and designers to. ensure a seamless and reliable user experience",
+    "showMultipleApply": true,
+    "groupId": 8313989,
+    "isTopGroup": 0,
+    "createdDate": 1764855141624,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 1000000,
+      "maximumSalary": 1900000,
+      "currency": "INR",
+      "hideSalary": false,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "10",
+    "applyByTime": "11:02 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Engineer",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/10091262.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/10091262.gif",
+    "jobId": "021225024323",
+    "currency": "INR",
+    "footerPlaceholderLabel": "5 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Actin Technologies",
+    "isSaved": false,
+    "tagsAndSkills": "Manual Testing,Test Engineering,Playwright,Ci/Cd,SQL,Cypress,RestAssured,API Testing",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "2-4 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Pune"
+      }
+    ],
+    "companyId": 124044192,
+    "jdURL": "/job-listings-qa-engineer-actin-technologies-pune-2-to-4-years-021225024323",
+    "staticUrl": "actin-technologies-jobs-careers-124044192",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/actin-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 3,
+      "AggregateRating": "3.8",
+      "Title": "Actin Technologies Reviews by Employees"
+    },
+    "jobDescription": "<p><strong>Role & responsibilities</strong> </p><p>Skills Required:</p><p>-Strong understanding of manual testing methodologies</p><p>- Experience with automation frameworks like Selenium, Cypress, Playwright</p><p>- Proficiency in API testing using Postman, RestAssured, or similar tools</p><p>- Knowledge of CI/CD integration (Jenkins, GitHub Actions, Azure DevOps-</p><p>-Experience with performance testing using JMeter or similar tools</p><p>- Familiarity with bug tracking tools like JIRA, TestRail, or Azure Test Plans</p><p>- Knowledge of SQL,Postgres,MongoDB for database validation</p><br /><p><strong>Additional Comments: </strong></p><p>-Experience with mobile automation testing (Appium)</p><p>-Knowledge of security testing fundamentals</p><p>-Familiarity with scripting languages like Python, Java, or JavaScript for test automation</p><p>-Experience with cloud-based testing tools like BrowserStack or LambdaTest</p><br /><p>Interested candidates please share your resume on neha.basutkar@actin.co.in. </p>",
+    "showMultipleApply": true,
+    "groupId": 10091262,
+    "isTopGroup": 0,
+    "createdDate": 1764674618281,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "2",
+    "maximumExperience": "4",
+    "applyByTime": "8:53 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Engineer (Python + Pyspark )",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/6403387.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/6403387.gif",
+    "jobId": "170925026967",
+    "currency": "INR",
+    "footerPlaceholderLabel": "6 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Nielseniq India",
+    "isSaved": false,
+    "tagsAndSkills": "Pyspark,SQL,Python,Quality assurance engineering,Quality assurance",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "3-6 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Hybrid - Chennai, Pune"
+      }
+    ],
+    "companyId": 976180,
+    "jdURL": "/job-listings-qa-engineer-python-pyspark-nielseniq-india-pune-chennai-3-to-6-years-170925026967",
+    "staticUrl": "nielseniq-india-jobs-careers-976180",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/nielseniq-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 1475,
+      "AggregateRating": "3.6",
+      "Title": "NielsenIQ Reviews by Employees"
+    },
+    "jobDescription": "Provides technical guidance and support to colleagues such as code reviews,testing and software documentation as required. <br><br>Must have Pyspark / Python experience and proficient enough to create scalable big data Automation testing framework in Cloud<br><br>Must have SQL knowledge<br><br>Must have knowledge of relational databases,preferably PostgreSQL<br><br>Minimum B.S",
+    "showMultipleApply": true,
+    "groupId": 6403387,
+    "isTopGroup": 0,
+    "createdDate": 1764656591941,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "3",
+    "maximumExperience": "6",
+    "applyByTime": "3:53 PM",
+    "saved": false
+  },
+  {
+    "title": "Manual QA Professional",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/1186200.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1186200.gif",
+    "jobId": "051225916379",
+    "currency": "INR",
+    "footerPlaceholderLabel": "3 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Virtusa",
+    "isSaved": false,
+    "tagsAndSkills": "qa,device testing,software testing,regression testing,automation testing,test cases,manual testing,selenium webdriver",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "2-6 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Bengaluru"
+      }
+    ],
+    "companyId": 1354,
+    "jdURL": "/job-listings-manual-qa-professional-virtusa-consulting-services-pvt-ltd-bengaluru-2-to-6-years-051225916379",
+    "staticUrl": "virtusa-jobs-careers-1354",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/virtusa-consulting-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 5859,
+      "AggregateRating": "3.7",
+      "Title": "Virtusa Consulting Services Reviews by Employees"
+    },
+    "jobDescription": "<div> <div> <ul> <li> 1-2 years of hands-on expertise in Device testing.  </li> <li> Design and execute functional and regression test cases.  </li> <li> Perform device-level validation to ensure compatibility and reliability.  </li> <li> Identify, document, and track defects across systems.  </li> <li> Collaborate with developers to support timely bug resolution and quality delivery.  </li> </ul> <br /> </div> </div>",
+    "showMultipleApply": true,
+    "groupId": 1186200,
+    "isTopGroup": 0,
+    "createdDate": 1764916379254,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "2",
+    "maximumExperience": "6",
+    "applyByTime": "4:02 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Analyst(Selenium, Cypress)",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/6542981.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/6542981.gif",
+    "jobId": "041225035309",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Manpowergroup Services India",
+    "isSaved": false,
+    "tagsAndSkills": "Bdd,Cypress,TestNG,Selenium,QA,Java,Typescript,Automation Testing",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-6 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Hybrid - Bengaluru"
+      }
+    ],
+    "companyId": 742,
+    "jdURL": "/job-listings-qa-analyst-selenium-cypress-manpowergroup-services-india-bengaluru-5-to-6-years-041225035309",
+    "staticUrl": "manpowergroup-services-india-jobs-careers-742",
+    "jobDescription": "<p>Job Responsibilities: </p><p>Proven experience as a QA Analyst with a strong focus on automation.   Solid knowledge and understanding of SDLC & Bug Life Cycle Management.   Responsible for driving the software quality assurance lifecycle within Agile process.   Designing and implementing automation test strategies.   Developing and maintaining test automation frameworks.   Collaborate with cross-functional teams to understand requirements and develop comprehensive test plans.   Execute manual & automation testing, analyze results for discrepancies and defects, and meticulously document test cases based on functional specifications and user stories.   Good experience in Browser Stack & Accessibility testing.   Exposure in Load testing framework and capable of creating the performance test strategy.   Preparing & Reviewing software bug reports and highlighting problem areas.   Solid knowledge of software testing methodologies and best practices, with hands-on experience. using automation testing tools such as Selenium and Playwright.   Ability to create In Sprint automation with proper coverage for sprint releases   Hands on experience in automation frameworks such as TestNG, BDD.   Proficiency in programming languages like Java, C#, JavaScript, Python.   Experience in setting up CI/CD Pipelines for automation execution of deployments.   Translate Non-functional Requirements into Performance test cases. Develops and executes Performance testing plans and scripts using JMeter.   Hands on experience in API testing through different approaches like Testfully, Postman. Working experience in SAFe Agile environment.   Hands on experience in Eclipse, Maven/Jenkins.   Hands on experience in database testing.   Extensive experience in End-to-End Automation Test Design and creation.   Coordinate with Dev, PO teams and assist in RCA of defects.   Knowledge of Azure Devops is a plus.   Good knowledge of Web Development is a plus.   Good knowledge of CI/CD with Azure DevOps is required.   Excellent communication skills and the ability to work collaboratively in a team-oriented environment.   Exhibits strong analytical, problem solving, organizational and teaching skills.   B.Tech or Bachelors Degree in a related discipline is mandatory.      This is a summary of the primary accountabilities and requirements for this position. The company reserves the right to modify or amend accountabilities and requirements at anytime at its sole discretion based on business needs. Any part of this job description is subject to possible modification to reasonably accommodate individuals with disabilities.  </p>",
+    "showMultipleApply": true,
+    "groupId": 6542981,
+    "isTopGroup": 0,
+    "createdDate": 1764945383737,
+    "consultant": true,
+    "hideClientName": true,
+    "mode": "jp",
+    "clientLogo": "https://img.naukimg.com/logo_images/groups/v1/6542981.gif",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "6",
+    "applyByTime": "12:06 AM",
+    "saved": false
+  },
+  {
+    "title": "Senior Software Engineer QA",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/643118.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/643118.gif",
+    "jobId": "041225502755",
+    "currency": "INR",
+    "footerPlaceholderLabel": "3 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Agilent Technologies",
+    "isSaved": false,
+    "tagsAndSkills": "Automation testing,Test scripts,Javascript,Performance testing,Software development life cycle,Selenium,Test cases,JIRA",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "3-6 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Bengaluru, Hyderabad, Gurugram, Manesar"
+      }
+    ],
+    "companyId": 124878799,
+    "jdURL": "/job-listings-senior-software-engineer-qa-agilent-technologies-pvt-ltd-hyderabad-gurugram-bengaluru-manesar-3-to-6-years-041225502755",
+    "staticUrl": "agilent-technologies-jobs-careers-39",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/agilent-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 371,
+      "AggregateRating": "4.0",
+      "Title": "Agilent Technologies Reviews by Employees"
+    },
+    "jobDescription": "<b> Job Description </b> <div> Job Description </div> <div> At Agilent, we advance the quality of life by enabling scientific discovery through world-class instruments, software, and services. we're committed to innovation, collaboration, and excellence. you'll be part of a team that values creativity, continuous learning, and delivering impactful digital solutions. If you're passionate about eCommerce solutions for Cart, Checkout and much more; and want to help shape the future of online experiences, we d love to hear from you. </div> <div> <span> This role currently follows a hybrid work model. Work arrangements may evolve based on future business needs </span> </div> <div> What you'll do </div> <ul> <li> <div> Work with a team of engineers to deliver feature set that are crucial to Revenue growth. </div> </li> <li> <div> Be a part of a world class global organization. </div> </li> <li> <div> Design and develop comprehensive automation test scripts and frameworks for our constantly updating A/B testing and personalization workflows. </div> </li> <li> <div> Collaborate with centralized testing team to integrate automated tests into the CI/CD pipeline. </div> </li> <li> <div> Collaborate with the development team to understand product features and technical specifications to create effective test plans and strategies. </div> </li> <li> <div> Perform functional, regression, and performance testing. </div> </li> <li> <div> Analyze test results, identify defects, and work with developers to resolve them. </div> </li> <li> <div> Mentor QA engineers to deliver better QA coverage and results. </div> </li> </ul> <b> Qualifications </b> <div> Required Qualifications </div> <ul> <li> <div> Bachelors or Masters Degree or equivalent. </div> </li> <li> <div> 8+ years of relevant experience in QA and automation dev. </div> </li> <li> <div> Collaborate with the development team to understand product features and technical specifications to create effective test plans and strategies. </div> </li> <li> <div> Perform functional, regression, and performance testing. </div> </li> <li> <div> Analyze test results, identify defects, and work with developers to resolve them. </div> </li> <li> <div> Experience writing exceptional test cases in JIRA, Cucumber etc </div> </li> <li> <div> Experience with test automation frameworks like Selenium, Cypress, Playwright, or Appium. </div> </li> <li> <div> Solid understanding of the software development lifecycle (SDLC) and QA methodologies. </div> </li> <li> <div> Experience with setting up test automation with CI/CD tools (eg, Jenkins, GitLab CI). </div> </li> <li> <div> Programming skills in Python, JavaScript, React, Java </div> </li> <li> <div> Excellent problem-solving skills and attention to detail. </div> </li> <li> <div> Strong communication skills and a collaborative perspective. </div> </li> <li> <div> Experience in Using generative AI for test case generation and execution </div> </li> </ul> <div> </div> <div> </div> <div> Ways to stand out from the crowd </div> <ul> <li> <div> QA automation for testing in the eCommerce domain. </div> </li> <li> <div> Test automation integration with CI/CD. </div> </li> </ul> <div> </div> <div> <b> Additional Details </b> </div> <div> </div> <div> </div> This job has a full time weekly schedule.  <div> </div> <div> </div> <div> </div> Our pay ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. During the hiring process, a recruiter can share more about the specific pay range for a preferred location. Pay and benefit information by country are available at: https: /  / careers.agilent.com / locations  <div> </div> <div> </div> Agilent Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.  <div> </div> <b> Travel Required:  </b> No  <div> </div> <b> Shift:  </b> Day  <div> </div> <b> Duration:  </b> No End Date  <div> </div> <b> Job Function:  </b> IT",
+    "showMultipleApply": false,
+    "groupId": 643118,
+    "isTopGroup": 0,
+    "createdDate": 1764853923000,
+    "mode": "crawled",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "3",
+    "maximumExperience": "6",
+    "applyByTime": "10:42 PM",
+    "saved": false
+  },
+  {
+    "title": "Member of Technical Staff 3 - UI QA & Automation",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/1287338.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1287338.gif",
+    "jobId": "031225930219",
+    "currency": "INR",
+    "footerPlaceholderLabel": "4 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Nutanix",
+    "isSaved": false,
+    "tagsAndSkills": "test strategies,kubernetes,css,react,ui ux,docker,qa,build automation",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "3-8 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Hybrid - Bengaluru"
+      }
+    ],
+    "companyId": 1295132,
+    "jdURL": "/job-listings-member-of-technical-staff-3-ui-qa-automation-nutanix-technologies-india-private-limited-bengaluru-3-to-8-years-031225930219",
+    "staticUrl": "nutanix-jobs-careers-1106252",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/nutanix-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 189,
+      "AggregateRating": "3.6",
+      "Title": "Nutanix Reviews by Employees"
+    },
+    "jobDescription": "Bachelors or Masters degree in Computer Science or related field<br><br>Hands-on experience building UI automation frameworks from scratch<br><br>Required Qualifications <br><br>Preferred Skills <br><br>The Opportunity . We are seeking a skilled UI QA & Automation Engineer to ensure the reliability,usability,and performance of the NDK management experience integrated within Nutanix Prism Central",
+    "showMultipleApply": true,
+    "groupId": 1287338,
+    "isTopGroup": 0,
+    "createdDate": 1764763564294,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "3",
+    "maximumExperience": "8",
+    "applyByTime": "9:36 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Automation Professional",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/1186200.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1186200.gif",
+    "jobId": "031225911597",
+    "currency": "INR",
+    "footerPlaceholderLabel": "5 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Virtusa",
+    "isSaved": false,
+    "tagsAndSkills": "qa,bdd,release testing,business systems,sprint,product manager,user stories,advocate",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-10 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Pune"
+      }
+    ],
+    "companyId": 1354,
+    "jdURL": "/job-listings-qa-automation-professional-virtusa-consulting-services-pvt-ltd-pune-5-to-10-years-031225911597",
+    "staticUrl": "virtusa-jobs-careers-1354",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/virtusa-consulting-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 5859,
+      "AggregateRating": "3.7",
+      "Title": "Virtusa Consulting Services Reviews by Employees"
+    },
+    "jobDescription": " . Should have strong skills in Selenium with core java knowledge . Should have basic knowledge of databases and SQL . Should have experience with Cucumber . <br><br>Develop automated tests and test cases to ensure good test coverage of the features / user stories",
+    "showMultipleApply": true,
+    "groupId": 1186200,
+    "isTopGroup": 0,
+    "createdDate": 1764737469501,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "10",
+    "applyByTime": "2:21 PM",
+    "saved": false
+  },
+  {
+    "title": "Senior QA Engineer",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/4607713.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/4607713.gif",
+    "jobId": "031225020884",
+    "currency": "INR",
+    "footerPlaceholderLabel": "4 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Kumaran Systems",
+    "isSaved": false,
+    "tagsAndSkills": "Manual Testing,SQL,Java,Agile,Selenium,Quality assurance,Manual,Software testing",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-8 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Chennai"
+      }
+    ],
+    "companyId": 6255,
+    "jdURL": "/job-listings-senior-qa-engineer-kumaran-systems-chennai-5-to-8-years-031225020884",
+    "staticUrl": "kumaran-systems-jobs-careers-6255",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/kumaran-systems-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 178,
+      "AggregateRating": "3.5",
+      "Title": "Kumaran Systems Reviews by Employees"
+    },
+    "jobDescription": "Collaborate with development,product,and business teams to ensure quality deliverables.  . Support automation tasks using Selenium or basic Core Java when required.  <br><br>Required Skills . Strong experience in Manual Testing.  . Strong SQL knowledge for data validation and backend testing.  <br><br>Experience: 5-8 Years",
+    "showMultipleApply": true,
+    "groupId": 4607713,
+    "isTopGroup": 0,
+    "createdDate": 1764751362061,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "8",
+    "applyByTime": "6:12 PM",
+    "saved": false
+  },
+  {
+    "title": "Senior QA Engineer",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/4582249.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/4582249.gif",
+    "jobId": "031225019954",
+    "currency": "INR",
+    "footerPlaceholderLabel": "4 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Bridgestone - Global Capability Center",
+    "isSaved": false,
+    "tagsAndSkills": "Cypress,API Testing,Automation Testing,Selenium,Python,Playwright,Pytest,Ci/Cd",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-10 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Hybrid - Bengaluru"
+      }
+    ],
+    "companyId": 1355128,
+    "jdURL": "/job-listings-senior-qa-engineer-bridgestone-global-capability-center-bengaluru-5-to-10-years-031225019954",
+    "staticUrl": "bridgestone-global-capability-center-jobs-careers-1355128",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/bridgestone-global-capability-center-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 645,
+      "AggregateRating": "4.0",
+      "Title": "Bridgestone - Global Capability Center Reviews by Employees"
+    },
+    "jobDescription": "Required Skills:  . 4+ years of experience in QA automation with Selenium,Cypress <br><br>Experience in API testing using Postman,RestAssured,or SoapUI. CI / CD & Test Infrastructure <br><br>Experience in integrating automated tests with CI / CD pipelines<br><br>Hands-on experience with performance testing tools (JMeter,LoadRunner,or k6)",
+    "showMultipleApply": true,
+    "groupId": 4582249,
+    "isTopGroup": 0,
+    "createdDate": 1764749251186,
+    "mode": "jp",
+    "board": "1",
+    "vacancy": 2,
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "10",
+    "applyByTime": "5:37 PM",
+    "saved": false
+  },
+  {
+    "title": "Senior Qa Engineer",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/4706559.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/4706559.gif",
+    "jobId": "031225018106",
+    "currency": "INR",
+    "footerPlaceholderLabel": "4 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "IntraEdge Technology",
+    "isSaved": false,
+    "tagsAndSkills": "Cypress,Javascript,Automation Testing,Ui Automation Testing,API Testing,Quality assurance,Automation,GUI testing",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-10 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Remote"
+      }
+    ],
+    "companyId": 5873864,
+    "jdURL": "/job-listings-senior-qa-engineer-intraedge-technology-pune-5-to-10-years-031225018106",
+    "staticUrl": "intraedge-technology-jobs-careers-160660",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/intraedge-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 36,
+      "AggregateRating": "4.1",
+      "Title": "IntraEdge Reviews by Employees"
+    },
+    "jobDescription": "<p><strong>Job Title:</strong> Sr. QA Engineer (Javascript, Cypress, UI/API Testing)</p><p><strong>Location:</strong> Pune/Remote</p><p><strong>Experience Level:</strong> 5+<strong>Type:</strong> [Full-time]</p><p>US Overlap will be there </p><br /><p><strong>Job Description</strong></p><p>We are looking for a detail-oriented QA Engineer to join our dynamic team. This role involves ensuring the delivery of high-quality software solutions by designing and executing effective test strategies. The ideal candidate has hands-on experience in Javascript, Cypress, and API/UI testing and is passionate about building defect-free software systems. </p><br /><p><strong>Responsibilities</strong></p><ul><li>Develop and maintain automated test frameworks using <strong>Javascript</strong> and <strong>Cypress</strong> for web and API applications.</li><li>Design, write, and execute test cases and scenarios for functional, regression, performance, and scalability testing.</li><li>Perform API testing using tools like <strong>Postman</strong>, <strong>RestAssured</strong>, or similar libraries to ensure system integration quality.</li><li>Collaborate with the development and product teams to understand requirements and identify testing needs.</li><li>Debug issues by analyzing application logs, error messages, and stack traces.</li><li>Continuously improve automation frameworks for efficiency, coverage, and scalability.</li><li>Work closely with DevOps to integrate tests into CI/CD pipelines (e.g., Jenkins, GitHub Actions).</li><li>Maintain test environments, ensuring consistency and reliability across the QA lifecycle.</li><li>Document and communicate testing results, defect statuses, and metrics to stakeholders effectively.</li></ul><br /><p><strong>Qualifications</strong></p><ul><li><strong>Education</strong>: Bachelor's degree in Computer Science, Engineering, or a related field.</li><li><strong>Experience</strong>:</li><li>5+ years of experience in Quality Assurance with a focus on automation testing.</li><li>Strong hands-on experience in <strong>Javascript</strong> for building automated test cases.</li><li>Proficiency with <strong>Cypress</strong> for end-to-end web application testing.</li><li>Hands-on experience in API testing using tools like <strong>Postman</strong>, <strong>SoapUI</strong>, or Java-based libraries like <strong>RestAssured</strong>.</li><li><strong>Technical Skills</strong>:</li><li>Strong understanding of HTTP, REST, and SOAP protocols.</li><li>Familiarity with database querying (SQL) to validate backend results.</li><li>Knowledge of version control tools such as <strong>Git</strong>.</li><li>Experience working with CI/CD pipelines.</li><li>Good understanding of Agile/Scrum development methodologies.</li><li>Excellent analytical, problem-solving, and communication skills.</li></ul><br /><p><strong>Preferred Skills</strong></p><ul><li>Experience with performance testing tools like <strong>JMeter</strong> or <strong>Gatling</strong>.</li><li>Familiarity with containerization (e.g., <strong>Docker</strong>) and orchestration (e.g., <strong>Kubernetes</strong>).</li><li>Knowledge of cloud services (e.g., AWS, Azure)</li></ul><br /><br />",
+    "showMultipleApply": true,
+    "groupId": 4706559,
+    "isTopGroup": 0,
+    "createdDate": 1764747380005,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "10",
+    "applyByTime": "5:06 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Automation Professional",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/1186200.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1186200.gif",
+    "jobId": "021225918923",
+    "currency": "INR",
+    "footerPlaceholderLabel": "5 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Virtusa",
+    "isSaved": false,
+    "tagsAndSkills": "qa Automation,bdd,release testing,business systems,sprint,product manager,user stories,advocate",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-6 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Pune"
+      }
+    ],
+    "companyId": 1354,
+    "jdURL": "/job-listings-qa-automation-professional-virtusa-consulting-services-pvt-ltd-pune-5-to-6-years-021225918923",
+    "staticUrl": "virtusa-jobs-careers-1354",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/virtusa-consulting-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 5859,
+      "AggregateRating": "3.7",
+      "Title": "Virtusa Consulting Services Reviews by Employees"
+    },
+    "jobDescription": "Should have basic knowledge of databases and SQL <br><br>Should have experience with Cucumber <br><br>Develop automated tests and test cases to ensure good test coverage of the features / user stories",
+    "showMultipleApply": true,
+    "groupId": 1186200,
+    "isTopGroup": 0,
+    "createdDate": 1764667020631,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "6",
+    "applyByTime": "6:47 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Automation Professional",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/1186200.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1186200.gif",
+    "jobId": "011225910737",
+    "currency": "INR",
+    "footerPlaceholderLabel": "6 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Virtusa",
+    "isSaved": false,
+    "tagsAndSkills": "qa,bdd,release testing,business systems,sprint,product manager,user stories,advocate",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-8 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Pune"
+      }
+    ],
+    "companyId": 1354,
+    "jdURL": "/job-listings-qa-automation-professional-virtusa-consulting-services-pvt-ltd-pune-5-to-8-years-011225910737",
+    "staticUrl": "virtusa-jobs-careers-1354",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/virtusa-consulting-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 5859,
+      "AggregateRating": "3.7",
+      "Title": "Virtusa Consulting Services Reviews by Employees"
+    },
+    "jobDescription": "Should have strong skills in Selenium with core java knowledge <br><br>Should have basic knowledge of databases and SQL <br><br>Should have experience with Cucumber <br><br>Develop automated tests and test cases to ensure good test coverage of the features / user stories",
+    "showMultipleApply": true,
+    "groupId": 1186200,
+    "isTopGroup": 0,
+    "createdDate": 1764581066007,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "8",
+    "applyByTime": "6:54 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Team Lead",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/6092175.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/6092175.gif",
+    "jobId": "011225502161",
+    "currency": "INR",
+    "footerPlaceholderLabel": "6 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Thinkproject",
+    "isSaved": false,
+    "tagsAndSkills": "coding,collaboration,ci/cd,typescript,rest api testing,communication skills,Rest,API Testing",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-9 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Pune"
+      }
+    ],
+    "companyId": 6784345,
+    "jdURL": "/job-listings-qa-team-lead-thinkproject-pune-5-to-9-years-011225502161",
+    "staticUrl": "thinkproject-jobs-careers-6678249",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/thinkproject-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 6,
+      "AggregateRating": "2.0",
+      "Title": "Thinkproject Reviews by Employees"
+    },
+    "jobDescription": "Strong understanding of software development life cycles and agile methodologies. Disclaimer: This job description has been sourced from a public domain and may have been modified by Naukri.com to improve clarity for our users<br><br>Experience with automation testing tools such as Selenium or Appium",
+    "showMultipleApply": false,
+    "groupId": 6092175,
+    "isTopGroup": 0,
+    "createdDate": 1764576184000,
+    "mode": "crawled",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "9",
+    "applyByTime": "5:33 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Engineer - FinBox",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/3687276.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/3687276.gif",
+    "jobId": "051225502494",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Finbox",
+    "isSaved": false,
+    "tagsAndSkills": "Manual testing,Manager Quality Assurance,Schema,Test planning,Customer support,Test cases,Troubleshooting,JIRA",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "2-7 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Bengaluru"
+      }
+    ],
+    "companyId": 4521502,
+    "jdURL": "/job-listings-qa-engineer-finbox-finbox-bengaluru-2-to-7-years-051225502494",
+    "staticUrl": "finbox-jobs-careers-124062398",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/finbox-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 17,
+      "AggregateRating": "2.5",
+      "Title": "FinBox Reviews by Employees"
+    },
+    "jobDescription": "Experience with industry-standard tools for defect tracking,source code management,test case management,and other management and monitoring tools . Ability to do complex setups and configuration . Ability in writing a detailed test-plan & strategy . Strong ability to work independently in a techno-functional environment . Good grasp of JIRA",
+    "showMultipleApply": false,
+    "groupId": 3687276,
+    "isTopGroup": 0,
+    "createdDate": 1764939163000,
+    "mode": "crawled",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "2",
+    "maximumExperience": "7",
+    "applyByTime": "10:22 PM",
+    "saved": false
+  },
+  {
+    "title": "SAP QM QA Consultant",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/11839455.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/11839455.gif",
+    "jobId": "141125035372",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Vedabrahmi 360 Services Llp",
+    "isSaved": false,
+    "tagsAndSkills": "SAP QM,SAP QM Tester,S/4 HANA,SAP QA,SAP Quality Management,python,START tool,test framework",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-8 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Hybrid - Bengaluru"
+      }
+    ],
+    "companyId": 124915427,
+    "jdURL": "/job-listings-sap-qm-qa-consultant-vedabrahmi-360-services-llp-bengaluru-5-to-8-years-141125035372",
+    "staticUrl": "vedabrahmi-360-services-jobs-careers-124915427",
+    "jobDescription": "SAP QM Tester with SAP testing tools: START, Process Test Framework, Qmate, Postman\nProgramming/Scripting: Java, JavaScript, Python, or ABAP\nSAP Cloud Applications experience(Fiori, ODATA, CDS, etc.)\nEnsure high-quality delivery for SAP S/4HANA Cloud",
+    "showMultipleApply": true,
+    "groupId": 11839455,
+    "isTopGroup": 0,
+    "createdDate": 1764943142940,
+    "consultant": true,
+    "hideClientName": false,
+    "mode": "jp",
+    "clientLogo": "https://img.naukimg.com/logo_images/groups/v1/11839455.gif",
+    "board": "1",
+    "vacancy": 5,
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "8",
+    "applyByTime": "11:29 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Lead",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/223346.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/223346.gif",
+    "jobId": "051225936962",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Tata Consultancy Services",
+    "isSaved": false,
+    "tagsAndSkills": "Qa,Java,Testing Strategies,Api Automation,Leadership,Automation,Core Java,It Services",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "4-8 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Bengaluru"
+      }
+    ],
+    "companyId": 892542,
+    "jdURL": "/job-listings-qa-lead-tata-consultancy-services-ltd-bengaluru-4-to-8-years-051225936962",
+    "staticUrl": "tata-consultancy-services-jobs-careers-13542",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/tcs-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 109331,
+      "AggregateRating": "3.4",
+      "Title": "TCS Reviews by Employees"
+    },
+    "jobDescription": "Familiarity with API understanding and knowledge.  . Undergraduate degree<br><br>Experience in QA inspection and testing.",
+    "showMultipleApply": true,
+    "groupId": 223346,
+    "isTopGroup": 0,
+    "createdDate": 1764940402278,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "4",
+    "maximumExperience": "8",
+    "applyByTime": "10:43 PM",
+    "saved": false
+  },
+  {
+    "title": "QA Manual Professional",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/193320.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/193320.gif",
+    "jobId": "051225922294",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Overture Rede",
+    "isSaved": false,
+    "tagsAndSkills": "QA,Backend Testing,Mobile Testing,API,Manual Testing,Postman,Microservices,Quality assurance",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "4-5 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Chennai"
+      }
+    ],
+    "companyId": 634375,
+    "jdURL": "/job-listings-qa-manual-professional-overture-rede-private-limited-chennai-4-to-5-years-051225922294",
+    "staticUrl": "overture-rede-jobs-careers-634375",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/overture-rede-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 29,
+      "AggregateRating": "3.9",
+      "Title": "Overture Rede Reviews by Employees"
+    },
+    "jobDescription": "Required Skills. QA Manual <br><br> Having 5 to 8 years of exclusive experience in Backend Testing <br><br>Having Mobile Testing experience would be an added advantage <br><br>Being very smart to catch up quickly to the context and start contributing to team . Having a good attitude with a lot of willingness to learn and work with the team together",
+    "showMultipleApply": true,
+    "groupId": 193320,
+    "isTopGroup": 0,
+    "createdDate": 1764923183392,
+    "mode": "jp",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "4",
+    "maximumExperience": "5",
+    "applyByTime": "5:56 PM",
+    "saved": false
+  },
+  {
+    "title": "Web QA Analyst",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/640044.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/640044.gif",
+    "jobId": "051225502787",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Infoblox",
+    "isSaved": false,
+    "tagsAndSkills": "Content management,Manual testing,Manager Quality Assurance,QA Analyst,Networking,Testing tools,Javascript,HTML",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "3-8 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Bengaluru"
+      }
+    ],
+    "companyId": 4419618,
+    "jdURL": "/job-listings-web-qa-analyst-snaproute-bengaluru-3-to-8-years-051225502787",
+    "staticUrl": "infoblox-jobs-careers-179624",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/infoblox-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 144,
+      "AggregateRating": "3.8",
+      "Title": "Infoblox Reviews by Employees"
+    },
+    "jobDescription": "Offers reflect role location,internal equity,experience,skills,education,and certifications <br><br> Test cross-browser and cross-device compatibility to ensure consistent user experience<br><br>  . Be Prepared What You Bring .  . 3+ years experience in software testing methodologies (manual and / or automated)<br><br> Good understanding of HTML,CSS and JavaScript",
+    "showMultipleApply": false,
+    "groupId": 640044,
+    "isTopGroup": 0,
+    "createdDate": 1764939296000,
+    "mode": "crawled",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Associate level",
+    "minimumExperience": "3",
+    "maximumExperience": "8",
+    "applyByTime": "10:24 PM",
+    "saved": false
+  },
+  {
+    "title": "Senior QA Engineer",
+    "logoPath": "https://img.naukimg.com/logo_images/groups/v1/4673989.gif",
+    "logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/4673989.gif",
+    "jobId": "051225500886",
+    "currency": "INR",
+    "footerPlaceholderLabel": "2 Days Ago",
+    "footerPlaceholderColor": "grey",
+    "companyName": "Xactly",
+    "isSaved": false,
+    "tagsAndSkills": "SAN,Maven,Automation,Hadoop,J2Ee,Scrum,Selenium,Analytics",
+    "placeholders": [
+      {
+        "type": "experience",
+        "label": "5-8 Yrs"
+      },
+      {
+        "type": "salary",
+        "label": "Not disclosed"
+      },
+      {
+        "type": "location",
+        "label": "Bengaluru"
+      }
+    ],
+    "companyId": 1685886,
+    "jdURL": "/job-listings-senior-qa-engineer-xactly-corporation-bengaluru-5-to-8-years-051225500886",
+    "staticUrl": "xactly-jobs-careers-492137",
+    "ambitionBoxData": {
+      "Url": "https://www.ambitionbox.com/reviews/xactly-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=bc4a796aa635414889af47b8daa85700",
+      "ReviewsCount": 70,
+      "AggregateRating": "3.7",
+      "Title": "Xactly Corp Reviews by Employees"
+    },
+    "jobDescription": "Bachelor s degree in computer science or related technical field<br><br>Experience of 5-8 years with strong testing skills<br><br>Experience as QE engineer in Scrum methodology requiring automated tests as definition of done. <br><br>Hands on experience in Rest API automation and GUI automation(such as Selenium). <br><br>Experience in testing J2EE based application . .",
+    "showMultipleApply": false,
+    "groupId": 4673989,
+    "isTopGroup": 0,
+    "createdDate": 1764931532000,
+    "mode": "crawled",
+    "board": "1",
+    "salaryDetail": {
+      "minimumSalary": 0,
+      "maximumSalary": 0,
+      "currency": "INR",
+      "hideSalary": true,
+      "variablePercentage": 0
+    },
+    "experienceText": "Mid level",
+    "minimumExperience": "5",
+    "maximumExperience": "8",
+    "applyByTime": "8:15 PM",
+    "saved": false
+  }
+]
