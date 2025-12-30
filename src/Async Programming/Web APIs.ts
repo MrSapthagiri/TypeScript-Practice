@@ -7,11 +7,11 @@ setTimeout((): void => {
 console.log("End");
 
 
+console.log("Timer finished");
+
+
 // Output:
 
     // Start
     // End
     // Timer finished
-
-
-console.log("Timer finished");
