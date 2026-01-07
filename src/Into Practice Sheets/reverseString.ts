@@ -8,4 +8,6 @@ function reverseString(str: string): string {
 
 // Test Example
 const input = "TypeScript";
-console.log('Reversed string:', reverseString(input)); // Output: tpircSpeyT
+console.log('Reversed string:', reverseString(input)); 
+
+// Output: tpircSpeyT
