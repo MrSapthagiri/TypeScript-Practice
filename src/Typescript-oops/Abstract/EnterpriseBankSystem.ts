@@ -30,11 +30,7 @@ interface IRepository<T> {
 interface INotification {
   send(recipient: string, message: string): Promise<void>;
 }
-
-
 // Audit Service (global logging)
-
-
 class AuditService {
   private static instance: AuditService;
   private auditFile: string;
