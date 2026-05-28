@@ -13,13 +13,32 @@ const catalog: Product[] = [
     stock: 10, 
     categories: ['electronics'] 
 },
-{ sku: 'P2', name: 'Headset', price: 1500, stock: 20, categories: ['electronics', 'accessories'] },
-{ sku: 'P3', name: 'T-Shirt', price: 499, stock: 100, categories: ['clothing'] }
+{ 
+    sku: 'P2', 
+    name: 'Headset', 
+    price: 1500, 
+    stock: 20, 
+    categories: ['electronics', 'accessories'] },
+{ 
+    sku: 'P3', 
+    name: 'T-Shirt', 
+    price: 499, 
+    stock: 100, 
+    categories: ['clothing'] }
 ];
 
 
 type CartItem = { sku: string; qty: number };
-const cart: CartItem[] = [ { sku: 'P1', qty: 1 }, { sku: 'P2', qty: 2 }, { sku: 'P3', qty: 3 } ];
+const cart: CartItem[] = [ 
+    { 
+        sku: 'P1',qty: 1 
+    }, 
+    { 
+        sku: 'P2',qty: 2 
+    }, 
+    { 
+        sku: 'P3',qty: 3 } 
+    ];
 
 
 function findProduct(sku: string) { return catalog.find(p => p.sku === sku); }
