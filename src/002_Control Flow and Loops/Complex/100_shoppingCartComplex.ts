@@ -78,3 +78,4 @@ console.log('Total:', total.toFixed(0));
 
 
 applyPromotions(cart);
+
