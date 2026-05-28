@@ -6,7 +6,13 @@ type Product = {
     categories: string[] 
 };
 const catalog: Product[] = [
-{ sku: 'P1', name: 'Phone', price: 25000, stock: 10, categories: ['electronics'] },
+{ 
+    sku: 'P1', 
+    name: 'Phone', 
+    price: 25000,
+    stock: 10, 
+    categories: ['electronics'] 
+},
 { sku: 'P2', name: 'Headset', price: 1500, stock: 20, categories: ['electronics', 'accessories'] },
 { sku: 'P3', name: 'T-Shirt', price: 499, stock: 100, categories: ['clothing'] }
 ];
