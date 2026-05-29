@@ -1,17 +1,19 @@
 type DayStatus = 'P'|'A'|'L';
 
+export {};
 
-type Student = { id: number; name: string; records: Record<string, DayStatus> };
+
+type StudentRecord = { id: number; name: string; records: Record<string, DayStatus> };
 
 
-const students: Student[] = [
+const students: StudentRecord[] = [
 { id: 1, name: 'Arun', records: {} },
 { id: 2, name: 'Priya', records: {} }
 ];
 
 
 // generate 30 days of random attendance
-function genRecords(students: Student[], days = 30) {
+function genRecords(students: StudentRecord[], days = 30) {
 const baseDate = new Date();
 for (let d = 0; d < days; d++) {
 const dateKey = new Date(baseDate.getTime() - ((days - d - 1) * 86400000)).toISOString().slice(0,10);
@@ -26,7 +28,7 @@ s.records[dateKey] = r < 0.85 ? 'P' : (r < 0.9 ? 'L' : 'A');
 genRecords(students, 30);
 
 
-function analyze(students: Student[]) {
+function analyze(students: StudentRecord[]) {
 for (const s of students) {
 const dates = Object.keys(s.records).sort();
 let presentCount = 0;
