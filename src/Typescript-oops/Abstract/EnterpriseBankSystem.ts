@@ -1,10 +1,10 @@
 // EnterpriseBankSystem.ts
 // Node >= 18 recommended (for crypto.randomUUID). Compile with tsc then run with node.
-
+/// <reference types="node" />
 
 // Imports
 
-import { promises as fs } from "fs";
+import * as fs from "fs/promises";
 import * as path from "path";
 import crypto from "crypto";
 
@@ -132,7 +132,7 @@ abstract class BankAccount implements IAccountOperations {
     };
   }
 
-  protected restoreFromSerializable(obj: any) {
+  public restoreFromSerializable(obj: any) {
     if (obj.transactions) this.transactions = obj.transactions;
     if (typeof obj.balance === "number") this.balance = obj.balance;
   }

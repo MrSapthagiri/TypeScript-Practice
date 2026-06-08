@@ -9,7 +9,7 @@ const rows = grid.length, cols = grid[0].length;
 
 function shortestPath(sr:number, sc:number, tr:number, tc:number) {
 const q: [number,number,number][] = [[sr,sc,0]];
-const seen = new Set<string>([`${sr},${sc}`]);
+const seen = new Set<string>([`${sr},${sc}`]); 
 const dirs = [[1,0],[-1,0],[0,1],[0,-1]];
 while (q.length) {
 const [r,c,d] = q.shift()!;
@@ -28,4 +28,4 @@ return -1;
 }
 
 
-console.log('Distance', shortestPath(0,0,3,3));
+console.log('Distance', shortestPath(0,0,3,3)); 
