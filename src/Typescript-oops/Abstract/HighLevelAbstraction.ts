@@ -6,7 +6,7 @@
 interface IAccountOperations {
   deposit(amount: number): void;
   withdraw(amount: number): void;
-  transfer(target: BankAccount, amount: number): void;
+  transfer(target: BankAccountBase, amount: number): void;
   showDetails(): void;
 }
 
@@ -18,7 +18,7 @@ interface IRepository<T> {
 
 // ABSTRACT CLASS — Core structure for all accounts
 
-abstract class BankAccount implements IAccountOperations {
+abstract class BankAccountBase implements IAccountOperations {
   protected balance: number;
   protected readonly id: string;
   private transactions: string[] = [];
@@ -35,7 +35,7 @@ abstract class BankAccount implements IAccountOperations {
   abstract deposit(amount: number): void;
   abstract withdraw(amount: number): void;
 
-  transfer(target: BankAccount, amount: number): void {
+  transfer(target: BankAccountBase, amount: number): void {
     if (amount <= 0) throw new Error("Transfer amount must be positive");
     if (amount > this.balance) throw new Error("Insufficient funds for transfer");
 
@@ -69,7 +69,7 @@ abstract class BankAccount implements IAccountOperations {
 // DERIVED CLASSES — Specialized Implementations
 
 
-class SavingsAccount extends BankAccount {
+class SavingsAccount extends BankAccountBase {
   private interestRate = 4;
 
   deposit(amount: number): void {
@@ -91,7 +91,7 @@ class SavingsAccount extends BankAccount {
   }
 }
 
-class CurrentAccount extends BankAccount {
+class CurrentAccount extends BankAccountBase {
   private overdraftLimit = 10000;
 
   deposit(amount: number): void {
@@ -108,7 +108,7 @@ class CurrentAccount extends BankAccount {
   }
 }
 
-class BusinessAccount extends BankAccount {
+class BusinessAccount extends BankAccountBase {
   private transactionFee = 1.5; // %
 
   deposit(amount: number): void {
@@ -150,23 +150,23 @@ class InMemoryRepository<T extends { getId(): string }> implements IRepository<T
 
 
 abstract class AccountFactory {
-  abstract createAccount(holder: string, balance: number): BankAccount;
+  abstract createAccount(holder: string, balance: number): BankAccountBase;
 }
 
 class SavingsFactory extends AccountFactory {
-  createAccount(holder: string, balance: number): BankAccount {
+  createAccount(holder: string, balance: number): BankAccountBase {
     return new SavingsAccount(holder, balance, "Savings");
   }
 }
 
 class CurrentFactory extends AccountFactory {
-  createAccount(holder: string, balance: number): BankAccount {
+  createAccount(holder: string, balance: number): BankAccountBase {
     return new CurrentAccount(holder, balance, "Current");
   }
 }
 
 class BusinessFactory extends AccountFactory {
-  createAccount(holder: string, balance: number): BankAccount {
+  createAccount(holder: string, balance: number): BankAccountBase {
     return new BusinessAccount(holder, balance, "Business");
   }
 }
@@ -176,9 +176,9 @@ class BusinessFactory extends AccountFactory {
 
 
 class BankService {
-  constructor(private repo: IRepository<BankAccount>) {}
+  constructor(private repo: IRepository<BankAccountBase>) {}
 
-  openAccount(factory: AccountFactory, holder: string, balance: number): BankAccount {
+  openAccount(factory: AccountFactory, holder: string, balance: number): BankAccountBase {
     const acc = factory.createAccount(holder, balance);
     this.repo.save(acc);
     console.log(` Account opened for ${holder} (${acc.constructor.name})`);
@@ -203,7 +203,7 @@ class BankService {
 //  EXECUTION / TESTING
 
 
-const repo = new InMemoryRepository<BankAccount>();
+const repo = new InMemoryRepository<BankAccountBase>();
 const bankService = new BankService(repo);
 
 // Factories
