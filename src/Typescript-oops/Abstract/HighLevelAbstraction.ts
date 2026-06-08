@@ -6,7 +6,7 @@
 interface IAccountOperations {
   deposit(amount: number): void;
   withdraw(amount: number): void;
-  transfer(target: BankAccountBase, amount: number): void;
+  transfer(target: BankAccount, amount: number): void;
   showDetails(): void;
 }
 
@@ -218,7 +218,9 @@ const acc3 = bankService.openAccount(businessFactory, "Ravi", 30000);
 
 // Perform operations
 acc1.deposit(5000);
-(acc1 as SavingsAccount).applyInterest();
+if (acc1 instanceof SavingsAccount) {
+  acc1.applyInterest();
+}
 
 acc2.withdraw(5000);
 acc3.withdraw(10000);
