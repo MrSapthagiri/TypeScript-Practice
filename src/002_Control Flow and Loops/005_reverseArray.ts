@@ -9,6 +9,6 @@
 
 
 let username: string = "Sapthagiri" ;
-let message: string = `Hello ${username}, welcome to Playwright!`;
+// let message: string = `Hello ${username}, welcome to Playwright!`;
 console.log(username);
-console.log(message);
+// console.log(message);
