@@ -133,3 +133,4 @@ const managers = employees.filter(e => e.role === "Manager");
 const skillNode = employees.filter(e => e.skills.includes("Node"));
 
 const topEarners = employees.filter(e => e.salary >= 70000);
+
