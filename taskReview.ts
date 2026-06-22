@@ -68,3 +68,264 @@ let annualSalary = monthlySalary * 12;
 
 console.log(annualSalary);
 //Output: 720000
+
+//==================================================================================================
+
+/******************************************************************
+1. Create a variable called score and assign 75.
+Check whether score is greater than 50.
+Print Pass or Fail.
+******************************************************************/
+
+let score: number = 75;
+
+if (score > 50) {
+    console.log("Pass");
+} else {
+    console.log("Fail");
+}
+
+/*
+Output:
+Pass
+
+Explanation:
+Since score (75) is greater than 50,
+the condition is true and "Pass" is printed.
+*/
+
+
+/******************************************************************
+2. Create a variable called temperature and assign 35.
+Hot if temperature is greater than 30,
+otherwise print Normal.
+******************************************************************/
+
+let temperature: number = 35;
+
+if (temperature > 30) {
+    console.log("Hot");
+} else {
+    console.log("Normal");
+}
+
+/*
+Output:
+Hot
+
+Explanation:
+35 is greater than 30,
+therefore "Hot" is printed.
+*/
+
+
+/******************************************************************
+3. Create a variable called browser and assign "Chrome".
+Use switch statement.
+******************************************************************/
+
+let browser: string = "Chrome";
+
+switch (browser) {
+    case "Chrome":
+        console.log("Google Chrome Browser");
+        break;
+
+    case "Firefox":
+        console.log("Mozilla Firefox Browser");
+        break;
+
+    case "Edge":
+        console.log("Microsoft Edge Browser");
+        break;
+
+    default:
+        console.log("Browser Not Supported");
+}
+
+/*
+Output:
+Google Chrome Browser
+
+Explanation:
+The value of browser is "Chrome",
+so the Chrome case executes.
+*/
+
+
+/******************************************************************
+4. Using for loop print numbers from 1 to 20.
+******************************************************************/
+
+for (let i = 1; i <= 20; i++) {
+    console.log(i);
+}
+
+/*
+Output:
+1
+2
+3
+...
+20
+
+Explanation:
+The loop starts at 1 and continues
+until 20.
+*/
+
+
+/******************************************************************
+5. Calculate the sum of numbers from 1 to 10.
+******************************************************************/
+
+let sum1: number = 0;
+
+sum1 = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10;
+
+console.log("Sum =", sum1);
+
+/*
+Output:
+Sum = 55
+
+Explanation:
+Adding all numbers from 1 to 10
+results in 55.
+*/
+
+
+/******************************************************************
+6. Using for loop Calculate the sum of numbers from 1 to 10.
+******************************************************************/
+
+let sum2: number = 0;
+
+for (let i = 1; i <= 10; i++) {
+    sum2 += i;
+}
+
+console.log("Sum using for loop =", sum2);
+
+/*
+Output:
+Sum using for loop = 55
+
+Explanation:
+Each number from 1 to 10 is added
+to sum2 using a loop.
+*/
+
+
+/******************************************************************
+7. Print multiplication table of 5.
+******************************************************************/
+
+for (let i = 1; i <= 10; i++) {
+    console.log(`5 x ${i} = ${5 * i}`);
+}
+
+/*
+Output:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+
+Explanation:
+The loop multiplies 5 with numbers
+from 1 to 10.
+*/
+
+
+/******************************************************************
+8. Print all even numbers between 1 and 20 using while loop.
+******************************************************************/
+
+let evenNum: number = 2;
+
+while (evenNum <= 20) {
+    console.log(evenNum);
+    evenNum += 2;
+}
+
+/*
+Output:
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+Explanation:
+Starts from 2 and increases by 2
+until 20.
+*/
+
+
+/******************************************************************
+9. Use do-while loop to print numbers from 5 to 1.
+******************************************************************/
+
+let num: number = 5;
+
+do {
+    console.log(num);
+    num--;
+} while (num >= 1);
+
+/*
+Output:
+5
+4
+3
+2
+1
+
+Explanation:
+The do-while loop executes first,
+then checks the condition.
+*/
+
+
+/******************************************************************
+10. Print all even numbers between 1 and 20 using while loop.
+******************************************************************/
+
+let n: number = 1;
+
+while (n <= 20) {
+    if (n % 2 === 0) {
+        console.log(n);
+    }
+    n++;
+}
+
+/*
+Output:
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+Explanation:
+The loop checks each number.
+If divisible by 2, it prints the number.
+*/
