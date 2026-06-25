@@ -1,7 +1,19 @@
+<<<<<<< HEAD
+<div align="center">
+  <img src="image.png" alt="🔬 TS Engineer Hub Banner" width="100%" />
+</div>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/typescript-colored.svg" height="60" alt="TypeScript Logo" />
+  <br/>
+  🔬 TS Engineer Hub
+</h1>
+=======
 <img width="814" height="234" alt="image" src="https://github.com/user-attachments/assets/0e8a1ec7-b65e-48ce-96c4-7622fc2eec0a" />
 
 
 # <p align="center"><img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/typescript-colored.svg" height="80" alt="TypeScript Logo" /><br>TypeScript Practice Sandbox</p>
+>>>>>>> 697230010259687639d76cc5d4369ab6132fcfe0
 
 <p align="center">
   <a href="https://www.typescriptlang.org/">
@@ -11,14 +23,14 @@
     <img src="https://img.shields.io/badge/Runtime-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
   <a href="https://github.com/MrSapthagiri/TypeScript-Practice">
-    <img src="https://img.shields.io/badge/Repository-Practice_Sandbox-lightgrey?style=for-the-badge" alt="Repository" />
+    <img src="https://img.shields.io/badge/Repository-TS_Engineer_Hub-lightgrey?style=for-the-badge" alt="Repository" />
   </a>
 </p>
 
 ---
 
 ## 🎯 Purpose & Overview
-Welcome to the **TypeScript Practice Sandbox**! This repository is a structured learning path and reference containing a wide range of hands-on exercises, interview prep tasks, advanced Object-Oriented Programming (OOP) concepts, asynchronous execution models, and automation framework simulations. 
+Welcome to the **🔬 TS Engineer Hub**! This repository is a structured learning path and reference containing a wide range of hands-on exercises, interview prep tasks, advanced Object-Oriented Programming (OOP) concepts, asynchronous execution models, and automation framework simulations. 
 
 It is designed to help you transition from JavaScript/basic coding to advanced TypeScript constructs with strict type safety, solid design principles, and custom execution setups.
 
