@@ -1,19 +1,13 @@
-<<<<<<< HEAD
-<div align="center">
-  <img src="image.png" alt="🔬 TS Engineer Hub Banner" width="100%" />
-</div>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/typescript-colored.svg" height="60" alt="TypeScript Logo" />
   <br/>
   🔬 TS Engineer Hub
 </h1>
-=======
+       
 <img width="814" height="234" alt="image" src="https://github.com/user-attachments/assets/0e8a1ec7-b65e-48ce-96c4-7622fc2eec0a" />
 
 
-# <p align="center"><img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/typescript-colored.svg" height="80" alt="TypeScript Logo" /><br>TypeScript Practice Sandbox</p>
->>>>>>> 697230010259687639d76cc5d4369ab6132fcfe0
 
 <p align="center">
   <a href="https://www.typescriptlang.org/">
