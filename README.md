@@ -1,9 +1,14 @@
 
 <h1 align="center">
- 
-  🔬 TS Engineer Hub
+  <img
+    src="https://miro.medium.com/1*J7gECiwJLh9ROpgyqMeLoA.gif"
+    alt="TS Engineer Hub"
+    width="full"
+  />
+  <br><br>
+  <span style="font-size:48px;">🔬 TS Engineer Hub</span>
 </h1>
-     
+
 <p align="center">
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
