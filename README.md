@@ -1,3 +1,6 @@
+<img width="814" height="234" alt="image" src="https://github.com/user-attachments/assets/0e8a1ec7-b65e-48ce-96c4-7622fc2eec0a" />
+
+
 # <p align="center"><img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/typescript-colored.svg" height="80" alt="TypeScript Logo" /><br>TypeScript Practice Sandbox</p>
 
 <p align="center">
