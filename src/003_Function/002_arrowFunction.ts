@@ -1,8 +1,8 @@
 // 1. Create a named function to find square of a number.
-function square(x: number): number {
+function square_value(x: number): number {
     return x * x;
 }
-console.log("Square:", square(5));
+console.log("Square:", square_value(5));
 
 // 2. Create a named function to find cube of a number.
 function cube(x: number): number {
@@ -11,10 +11,10 @@ function cube(x: number): number {
 console.log("Cube:", cube(3));
 
 // 3. Create a named function to double a number.
-function double(x: number): number {
+function double_value(x: number): number {
     return x * 2;
 }
-console.log("Double:", double(8));
+console.log("Double:", double_value(8));
 
 // 4. Create a named function to triple a number.
 function triple(x: number): number {

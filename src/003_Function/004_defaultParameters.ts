@@ -1,5 +1,5 @@
 // 1. Create a named function with default name as Guest.
-function greetUser(name: string = "Guest"): string {
+function greet_User(name: string = "Guest"): string {
     return `Welcome, ${name}!`;
 }
 console.log(greetUser());

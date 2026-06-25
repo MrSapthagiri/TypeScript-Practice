@@ -1,5 +1,5 @@
 // 1. Create a named function with optional last name.
-function fullName(first: string, last?: string): string {
+function full_Name(first: string, last?: string): string {
     return last ? `${first} ${last}` : first;
 }
 console.log(fullName("John"));
