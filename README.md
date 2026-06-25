@@ -1,14 +1,9 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/typescript-colored.svg" height="60" alt="TypeScript Logo" />
-  <br/>
+ 
   🔬 TS Engineer Hub
 </h1>
-       
-<img width="814" height="234" alt="image" src="https://github.com/user-attachments/assets/0e8a1ec7-b65e-48ce-96c4-7622fc2eec0a" />
-
-
-
+     
 <p align="center">
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
