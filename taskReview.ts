@@ -63,9 +63,7 @@ if (location === "Chennai") {
 // Calculate annual salary.
 
 let monthlySalary: number = 60000;
-
 let annualSalary = monthlySalary * 12;
-
 console.log(annualSalary);
 //Output: 720000
 
@@ -130,15 +128,12 @@ switch (browser) {
     case "Chrome":
         console.log("Google Chrome Browser");
         break;
-
     case "Firefox":
         console.log("Mozilla Firefox Browser");
         break;
-
     case "Edge":
         console.log("Microsoft Edge Browser");
         break;
-
     default:
         console.log("Browser Not Supported");
 }
