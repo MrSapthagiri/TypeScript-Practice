@@ -546,11 +546,17 @@
 
 
 
-let fruits = ["apple", "banana", "orange"];
-let fruitObject = fruits.reduce<Record<string, boolean>>((acc, item) => {
-acc[item] = true;
-rlineturn acc;
-}, {});
+// let fruits = ["apple", "banana", "orange"];
+// let fruitObject = fruits.reduce<Record<string, boolean>>((acc, item) => {
+// acc[item] = true;
+// rlineturn acc;
+// }, {});
 
 
-console.log (fruitObject);
+// console.log (fruitObject);
+
+const names: string[] = ["giri", "sam", "amy"];
+const capitalized = names.map(function (name) {
+  return name.charAt(0).toUpperCase() + name.slice(1);
+});
+console.log("E2 Capitalized:", capitalized);

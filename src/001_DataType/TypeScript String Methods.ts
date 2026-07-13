@@ -45,17 +45,17 @@ class StringMethodsDemo {
         console.log("\nreplaceAll()");
         console.log("QA QA QA".replace(/QA/g, "Automation"));
 
-        // split()
+        // split()    // qa.engineer@test.com
         console.log("\nsplit()");
-        console.log(email.split("@"));
+        console.log(email.split("@")); // qa.engineer
 
         // substring()
         console.log("\nsubstring()");
         console.log(empId.substring(0, 3));
 
-        // slice()
+        // slice()          // EMP12345 
         console.log("\nslice()");
-        console.log(empId.slice(3));
+        console.log(empId.slice(3)); 
 
         // charAt()
         console.log("\ncharAt()");
