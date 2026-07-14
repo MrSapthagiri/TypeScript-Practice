@@ -43,7 +43,7 @@ class HR_Dep extends Employee {
     displayHR_Dep() {
         console.log("Employee_Name:", this.name);                 // public
         console.log("Employee_Age:", this.age);                   // protected
-        console.log("Employee_Salary:", this.getSalary());        // ✅ Fixed
+        console.log("Employee_Salary:", this.getSalary());        // Fixed
         console.log("Employee_Department:", this.department);
     }
 }
