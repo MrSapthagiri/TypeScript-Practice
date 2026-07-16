@@ -71,7 +71,7 @@ console.log(employee.name);
 
 // Not allowed
 // console.log(employee.age);             // Protected
-// console.log(employee.salary);         // private
+console.log(employee.salary);         // private
 
 // Getter Method
 
