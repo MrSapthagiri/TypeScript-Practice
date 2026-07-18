@@ -4,13 +4,13 @@ interface PaymentGateway {
 
 class PayPal implements PaymentGateway {
   pay(amount: number): void {
-    console.log(`💰 Paying $${amount} using PayPal.`);
+    console.log(`💰 Paying ${amount} using PayPal.`);
   }
 }
 
 class Stripe implements PaymentGateway {
   pay(amount: number): void {
-    console.log(`💳 Paying $${amount} using Stripe.`);
+    console.log(`💳 Paying ${amount} using Stripe.`);
   }
 }
 
