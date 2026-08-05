@@ -21,7 +21,7 @@ console.log("E5 Modulus:", modulus(10, 3));
 
 // MEDIUM LEVEL — control flow + string/boolean types
 function evenOrOdd(n: number): string {
-  if (n % 2 === 0) return "Even";
+  if (n % 2 === 0) return "Even"; 
   return "Odd";
 }
 
